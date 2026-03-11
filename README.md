@@ -53,6 +53,12 @@ poetry install
 poetry run python main.py
 ```
 
+## 🧪 Run Tests
+
+```bash
+poetry run pytest tests/ -v
+```
+
 ### Main Menu Options
 
 The application provides an interactive menu system with the following main options:
